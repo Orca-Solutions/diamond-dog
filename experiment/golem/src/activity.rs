@@ -1,4 +1,4 @@
-// SPDX-FileCopyrightText: The OrcaOS Authors
+// SPDX-FileCopyrightText: 2026 Orca Solutions
 // SPDX-License-Identifier: GPL-3.0-or-later
 
 //! One coordinator per activity. It checks the journal before it runs a

@@ -1,4 +1,4 @@
-// SPDX-FileCopyrightText: The OrcaOS Authors
+// SPDX-FileCopyrightText: 2026 Orca Solutions
 // SPDX-License-Identifier: GPL-3.0-or-later
 
 //! Surface 1, install (0.2): the manifest is the ceiling on everything an app

@@ -1,4 +1,4 @@
-// SPDX-FileCopyrightText: The OrcaOS Authors
+// SPDX-FileCopyrightText: 2026 Orca Solutions
 // SPDX-License-Identifier: GPL-3.0-or-later
 
 //! Surface 9, scheduled runs (0.3). Each tick opens an activity that acts

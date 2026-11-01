@@ -1,4 +1,4 @@
-// SPDX-FileCopyrightText: The OrcaOS Authors
+// SPDX-FileCopyrightText: 2026 Orca Solutions
 // SPDX-License-Identifier: GPL-3.0-or-later
 
 //! The approval path: holds each proposal, shows the principal exactly what

@@ -1,4 +1,4 @@
-// SPDX-FileCopyrightText: The OrcaOS Authors
+// SPDX-FileCopyrightText: 2026 Orca Solutions
 // SPDX-License-Identifier: GPL-3.0-or-later
 
 //! Surface 4, proposals and approvals (0.3). A proposal has no power. Only a
