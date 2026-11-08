@@ -56,6 +56,8 @@ The record keeps what a participant claimed apart from what the system observed,
 
 ## License
 
+First-party code and documentation: Copyright 2026 Orca Solutions.
+
 Diamond Dog uses two licenses:
 
 - **The runtime and system services** are licensed under the GNU General
@@ -79,12 +81,11 @@ Each MIT folder carries its own `LICENSE` file, so a copy of just that folder
 keeps its license. [REUSE.toml](REUSE.toml) records the same mapping in a form
 tools can check: run `reuse lint` to confirm every file is covered. CI runs
 the same check on every pull request. New source files also start with a
-license header, which takes precedence over the map (the copyright line keeps
-the OrcaOS name for now):
+license header, which takes precedence over the map:
 
 <!-- REUSE-IgnoreStart -->
 ```text
-SPDX-FileCopyrightText: The OrcaOS Authors
+SPDX-FileCopyrightText: 2026 Orca Solutions
 SPDX-License-Identifier: GPL-3.0-or-later   (or MIT under sdk/, interfaces/, examples/)
 ```
 <!-- REUSE-IgnoreEnd -->

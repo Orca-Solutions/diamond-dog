@@ -1,5 +1,5 @@
 <!--
-SPDX-FileCopyrightText: The OrcaOS Authors
+SPDX-FileCopyrightText: 2026 Orca Solutions
 SPDX-License-Identifier: MIT
 -->
 
